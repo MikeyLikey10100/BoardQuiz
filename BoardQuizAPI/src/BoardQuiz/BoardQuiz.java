@@ -6,7 +6,7 @@ public class BoardQuiz {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		// work
 		Scanner userInput1 = new Scanner (System.in); 
 		Scanner userInput2 = new Scanner (System.in);
 		System.out.println("pick two words please"); 
